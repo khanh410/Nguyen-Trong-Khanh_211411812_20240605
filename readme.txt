@@ -1,5 +1,5 @@
 # Nguyen-Trong-Khanh_211411812_20240605
-
+Trong khanh
 git init
 git add *
 git commit -m "ThaySua"
